@@ -1,1 +1,2 @@
-print("Hello OPS445 - Linux Mint VM is ready!")
+#!/usr/bin/env python3
+print("Hello world")
