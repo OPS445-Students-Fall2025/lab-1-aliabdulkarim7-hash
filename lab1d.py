@@ -1,4 +1,7 @@
-python3 ./CheckLab1.py -f -v lab1d
-git add lab1d.py
-git commit -m "Add lab1d: math operators following PEMDAS"
-git push
+#!/usr/bin/env python3
+x = 10
+y = 2
+z = 5
+result = x + y * z
+print(f"{x} + {y} * {z} = {result}")
+
